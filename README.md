@@ -1,3 +1,3 @@
-# hacker-rank-solutions
+# Hacker Rank Solutions
 
-YAY
+Some individuals working their way in Computer World.
