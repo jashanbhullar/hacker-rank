@@ -1,9 +1,9 @@
-# Solution for Ruby
+# Solution for C++
 ---
 
 |   | Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
+| 1 | function.c   |     Pass         |  shikhar-07 |  
 | 2 |              |                  |             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
