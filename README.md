@@ -1,8 +1,5 @@
 # Hacker Rank Solutions
----
  This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/ehotinger/HackerRank/issues) and I'll check it out.  
-
----
 
 |   |   Developer  |     Language    |  Score     |
 |---|--------------|-----------------|------------|
@@ -19,8 +16,6 @@
 
 
 ## How to Contribute ?
-
----
 ```
 - Fork the repository hell-sing/hacker-rank.
 - Clone the repository into your local machine.
@@ -34,4 +29,3 @@
 
 * Programe name should be same as the problem name on hacker-rank and must be under same folder as per problem sub-domain.
 
----
