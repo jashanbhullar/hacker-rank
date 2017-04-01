@@ -1,5 +1,5 @@
 # Hacker Rank Solutions
- This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/ehotinger/HackerRank/issues) and I'll check it out.  
+ This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/hell-sing/hacker-rank/issues) and I'll check it out.  
 
 |   |   Developer  |     Language    |  Score     |
 |---|--------------|-----------------|------------|
