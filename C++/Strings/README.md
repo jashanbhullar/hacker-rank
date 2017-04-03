@@ -1,4 +1,4 @@
-# Solution for Python
+# Solution for C++
 
 ## How to Contribute ?
 

@@ -1,4 +1,4 @@
-# Solution for Ruby
+# Solution for C++
 
 ## How to Contribute ?
 
