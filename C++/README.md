@@ -25,7 +25,7 @@
 | 4 | pointer.c                |     Pass         |tanmayag8958 |  
 | 5 | array_introduction.c     |     Pass         |tanmayag8958 |  
 | 6 | variable_sized_array     |     Pass         |tanmayag8958 |  
-| 7 |                          |                  |             |  
+| 7 | virtual_functions.c      |     Pass         |tanmayag8958 |  
 | 8 |                          |                  |             |  
 | 9 |                          |                  |             |  
 | 10|                          |                  |             |  
