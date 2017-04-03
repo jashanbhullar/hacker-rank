@@ -26,6 +26,6 @@
 | 5 | array_introduction.c     |     Pass         |tanmayag8958 |  
 | 6 | variable_sized_array     |     Pass         |tanmayag8958 |  
 | 7 | virtual_functions.c      |     Pass         |tanmayag8958 |  
-| 8 |                          |                  |             |  
+| 8 | Arrays Introduction.c          Pass          shikhar-07    |                  |             |  
 | 9 |                          |                  |             |  
 | 10|                          |                  |             |  
