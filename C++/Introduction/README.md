@@ -27,6 +27,5 @@
 | 6 | variable_sized_array         |     Pass         |tanmayag8958 |  
 | 7 | virtual_functions.c          |     Pass         |tanmayag8958 |  
 | 8 | Say "Hello, World!" With C++ |     Pass         |jaswal72     |  
-| 9 |                              |                  |             |  
+| 9 | Input and Output             |     Pass         |jaswal72     |  
 | 10|                              |                  |             |  
-    
