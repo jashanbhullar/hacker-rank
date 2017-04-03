@@ -1,4 +1,4 @@
-# Solution for Java
+# Solution for Ruby
 
 ## How to Contribute ?
 
@@ -15,8 +15,8 @@
 * Those who contribute to the repository please mention your Github-link and Email-id above each code using multiline comment.
 
 * Programe name should be same as the problem name on hacker-rank and must be under same folder as per problem sub-domain.
----
 
+---
 |   | Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
 | 1 |              |                  |             |  
