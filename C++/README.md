@@ -19,12 +19,12 @@
 
 |   | Problem Name             | Test (Pass/Fail) | Contributor |  
 |---|--------------------------|------------------|-------------|  
-| 1 | function.c               |     Pass         |shikhar-07 |  
+| 1 | function.c               |     Pass         |shikhar-07   |  
 | 2 | conditional_statements.c |     Pass         |tanmayag8958 |  
-| 3 |                          |                  |             |  
-| 4 |                          |                  |             |  
-| 5 |                          |                  |             |  
-| 6 |                          |                  |             |  
+| 3 | for_loop.c               |     Pass         |tanmayag8958 |  
+| 4 | pointer.c                |     Pass         |tanmayag8958 |  
+| 5 | array_introduction.c     |     Pass         |tanmayag8958 |  
+| 6 | variable_sized_array     |     Pass         |tanmayag8958 |  
 | 7 |                          |                  |             |  
 | 8 |                          |                  |             |  
 | 9 |                          |                  |             |  
