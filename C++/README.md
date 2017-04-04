@@ -15,7 +15,7 @@
 * Those who contribute to the repository please mention your Github-link and Email-id above each code using multiline comment.
 
 * Programe name should be same as the problem name on hacker-rank and must be under same folder as per problem sub-domain.
----
+  
 
 |   | Problem Name             | Test (Pass/Fail) | Contributor |  
 |---|--------------------------|------------------|-------------|  
@@ -26,6 +26,6 @@
 | 5 | array_introduction.c     |     Pass         |tanmayag8958 |  
 | 6 | variable_sized_array     |     Pass         |tanmayag8958 |  
 | 7 | virtual_functions.c      |     Pass         |tanmayag8958 |  
-| 8 | Arrays Introduction.c          Pass          shikhar-07    |                  |             |  
+| 8 | Arrays Introduction.c    |      Pass        |  shikhar-07 |
 | 9 |                          |                  |             |  
 | 10|                          |                  |             |  
