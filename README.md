@@ -17,6 +17,7 @@
 
 * For any update in the pre-build solution generate the issue.
 
+## Developers and Contributors for hell-sing/hacker-rank
 
 |   |   Developer  |     Language    |  Score     |
 |---|--------------|-----------------|------------|
@@ -29,4 +30,18 @@
 | 7 |              |                 |            |
 | 8 |              |                 |            |
 | 9 |              |                 |            |
-| 10|              |                 |            |   
+| 10|              |                 |            |  
+
+## Command for direct push access
+
+Setup Git for Ubuntu 16.04:
+```
+$ sudo apt install git
+$ git config --global user.name "Your Name"
+$ git config --global user.email "youremail@domain.com"
+```
+
+Clone repository hell-sing/hacker-rank
+```
+$ git clone git@github.com:hell-sing/hacker-rank.git
+```
