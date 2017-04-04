@@ -23,9 +23,9 @@
 |---|--------------|-----------------|------------|
 | 1 |Abhishek Verma|Ruby,Python,Shell|     7      |
 | 2 |Jashan Bhullar|     Java        |            |
-| 3 |Shikhar Gupta |  C++, Java      |            |
-| 4 |Tanmay Agarwal|  C++            |            |
-| 5 |Shubham Jaswal|  C++            |     4      |
+| 3 |Shikhar Gupta |  C++, Java      |     1      |
+| 4 |Tanmay Agarwal|  C++            |     6      |
+| 5 |Shubham Jaswal|  C++            |     7      |
 | 6 |              |                 |            |
 | 7 |              |                 |            |
 | 8 |              |                 |            |
