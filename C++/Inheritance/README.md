@@ -1,7 +1,7 @@
 
 |No.| Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
+| 1 |Inheritance Introduction   Pass       shikhar-07  |                  |             |  
 | 2 |              |                  |             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
