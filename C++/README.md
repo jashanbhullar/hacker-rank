@@ -1,4 +1,10 @@
-# Solution for Ruby
+# Solution for C++
+
+## Install g++ in Ubuntu 16.04
+```bash
+$ sudo apt update
+$ sudo apt install g++
+```
 
 ## How to Contribute?
 ```

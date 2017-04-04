@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main() {
-            int a,s,d;
+    int a,s,d;
     cin>>a>>s>>d;
     cout<<a+s+d;
     return 0;
