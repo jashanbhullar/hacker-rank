@@ -19,18 +19,18 @@
 
 ## Developers and Contributors for hell-sing/hacker-rank
 
-|   |   Developer  |     Language    |  Score     |
-|---|--------------|-----------------|------------|
-| 1 |Abhishek Verma|Ruby,Python,Shell|     7      |
-| 2 |Jashan Bhullar|     Java        |            |
-| 3 |Shikhar Gupta |  C++, Java      |            |
-| 4 |Tanmay Agarwal|  C++            |            |
-| 5 |Shubham Jaswal|  C++            |     4      |
-| 6 |              |                 |            |
-| 7 |              |                 |            |
-| 8 |              |                 |            |
-| 9 |              |                 |            |
-| 10|              |                 |            |  
+|   |   Developer    |     Language    |  Score     |
+|---|----------------|-----------------|------------|
+| 1 |Abhishek Verma  |Ruby,Python,Shell|     7      |
+| 2 |Jashan Bhullar  |     Java        |            |
+| 3 |Shikhar Gupta   |  C++, Java      |     4      |
+| 4 |Tanmay Agarwal  |  C++            |     6      |
+| 5 |Shubham Jaswal  |  C++            |     10     |
+| 6 |Shaurya Gairola |  C++, Java      |            |
+| 7 |                |                 |            |
+| 8 |                |                 |            |
+| 9 |                |                 |            |
+| 10|                |                 |            |  
 
 ## Command for direct push access
 
