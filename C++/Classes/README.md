@@ -4,7 +4,7 @@
 | 1 | Structs               |   Pass           | jaswal72    |  
 | 2 | Class                 |   Pass           | jaswal72    |  
 | 3 | Classes and Objects   |   Pass           | jaswal72    |  
-| 4 |                       |                  |             |  
+| 4 | Box It!               |   Pass           | jaswal72    |  
 | 5 |                       |                  |             |  
 | 6 |                       |                  |             |  
 | 7 |                       |                  |             |  
