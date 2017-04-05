@@ -1,6 +1,7 @@
 if __name__ == '__main__':
     n = int(raw_input())
-    if ((n%2!=0) or ((n>6) and (n<20))):
-        print "Weird"
-    else :
-        print "Not Weird"
+    if (n%2==0) and ((n<5) or (n>20) ):
+        print "Not Weird" 
+    else:
+        print "Weird"   
+
