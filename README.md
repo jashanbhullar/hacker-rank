@@ -27,10 +27,10 @@
 | 4 |Tanmay Agarwal  |  C++            |                   |                        |   6    |       |
 | 5 |Shubham Jaswal  |  C++            |    C, C++         |     C, C++             |  10    |       |
 | 6 |Shaurya Gairola |  C++, Java      |                   |                        |        |       |
-| 7 |Harshit Kashyap |  Java           |                   |                        |        |       |
+| 7 |Harshit Kashyap |  Java, Ruby     |                   |                        |        |       |
 | 8 |Shivank         |  C++            |                   |                        |        |       |
-| 9 |                |                 |                   |                        |        |       |
-|10 |                |                 |                   |                        |        |       |
+| 9 |Ankita          |  Shell, Python  |                   |                        |        |       |
+|10 |Ashutosh Mishra |  Python         |                   |                        |        |       |
 
 ## Command for direct push access
 
