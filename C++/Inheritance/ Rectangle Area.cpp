@@ -1,7 +1,7 @@
 /*
    Contributer : github.com/jaswal72
    Email : shubhamjaswal772@gmail.com
-*/
+*/ 
 class Rectangle{
     public:
     int w,h;
