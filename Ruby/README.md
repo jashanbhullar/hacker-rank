@@ -1,4 +1,4 @@
-# Solution for Python
+# Solution for Ruby
 
 ## How to Contribute?
 ```
