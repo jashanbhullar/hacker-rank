@@ -25,7 +25,7 @@
 | 2 |Jashan Bhullar  |  Java           |                   |                        |        |       |
 | 3 |Shikhar Gupta   |  C++, Java      |                   |                        |   4    |       |
 | 4 |Tanmay Agarwal  |  C++            |                   |                        |   6    |       |
-| 5 |Shubham Jaswal  |  C++            |    C, C++         |     C, C++             |  10    |       |
+| 5 |Shubham Jaswal  |  C++            |    C, C++         |     C, C++             |  11    |       |
 | 6 |Shaurya Gairola |  C++, Java      |                   |                        |        |       |
 | 7 |Harshit Kashyap |  Java, Ruby     |                   |                        |        |       |
 | 8 |Shivank         |  C++            |                   |                        |        |       |
