@@ -1,3 +1,5 @@
+# Solution for Databases
+
 ## How to Contribute?
 ```
 - Fork the repository hell-sing/hacker-rank.

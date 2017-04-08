@@ -1,4 +1,6 @@
-## How to Contribute?
+# Solution for Algorithms
+
+# How to Contribute?
 ```
 - Fork the repository hell-sing/hacker-rank.
 - Clone the repository into your local machine.

@@ -1,3 +1,5 @@
+# Solution for Mathematics
+
 ## How to Contribute?
 ```
 - Fork the repository hell-sing/hacker-rank.
