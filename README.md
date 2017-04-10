@@ -29,7 +29,7 @@
 | 6 |Shaurya Gairola |  C++, Java      |                   |                        |        |       |
 | 7 |Harshit Kashyap |  Java, Ruby     |                   |                        |        |       |
 | 8 |Shivank         |  C++            |                   |                        |        |       |
-| 9 |Ankita          |  Shell, Python  |                   |                        |        |       |
+| 9 |Ankita          |  Shell, Python  |   C, Python       |  C, Python             |        |       |
 |10 |Ashutosh Mishra |  Python         |                   |                        |        |       |
 
 ## Command for direct push access
