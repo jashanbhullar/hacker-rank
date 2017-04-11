@@ -1,3 +1,7 @@
+#
+#  Contributer : github.com/hell-sing
+#  Email : abhishek_verma@hotmail.com
+#
 # Enter your code here.
 hackerrank.store(543121,100)
 hackerrank.keep_if {|key,value| key.is_a?Integer}

@@ -2,5 +2,7 @@
 #  Contributer : github.com/hell-sing
 #  Email : abhishek_verma@hotmail.com
 #
-# add your code here
-return number.even?
+# Your code here
+def full_name(*name)
+    name.reduce {|n, a| n+" "+a}
+end

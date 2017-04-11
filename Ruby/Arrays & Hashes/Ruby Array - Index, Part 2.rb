@@ -1,3 +1,7 @@
+#
+#  Contributer : github.com/hell-sing
+#  Email : abhishek_verma@hotmail.com
+#
 def neg_pos(arr, index)
     # return the element of the array at the position `index` from the end of the list
     # Clue : arr[-index]

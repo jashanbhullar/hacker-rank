@@ -1,3 +1,7 @@
+#
+#  Contributer : github.com/hell-sing
+#  Email : abhishek_verma@hotmail.com
+#
 def select_arr(arr)
   # select and return all odd numbers from the Array variable `arr`
     arr.select {|a| a%2==1}

@@ -1,3 +1,7 @@
+#
+#  Contributer : github.com/hell-sing
+#  Email : abhishek_verma@hotmail.com
+#
 def square_of_sum (my_array, proc_square, proc_sum)
     sum = proc_sum.call(my_array)
     proc_square.call(sum)
