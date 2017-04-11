@@ -1,4 +1,8 @@
-# Hacker Rank Solutions
+# `Hacker Rank Solutions`
+
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) ![Ruby](https://img.shields.io/badge/Uses-Ruby-yellow.svg) ![Java](https://img.shields.io/badge/Uses-Java-green.svg)
+![Hacker Rank](https://img.shields.io/badge/hacker-rank-lightgrey.svg)  
+
  This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/hell-sing/hacker-rank/issues) and I'll check it out.  
 
 ## How to Contribute?
@@ -20,7 +24,7 @@
 
 ## Developers and Contributors for hell-sing/hacker-rank
 
-|   |   Developer    |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
+|   | Contributors   |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
 |---|----------------|-----------------|-------------|----------------|------------|-------|-------|
 | 1 |Abhishek Verma  |  Ruby, Python   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
 | 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
