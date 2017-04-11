@@ -1,4 +1,7 @@
-# Hacker Rank Solutions
+# `Hacker Rank Solutions`
+
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
+
  This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/hell-sing/hacker-rank/issues) and I'll check it out.  
 
 ## How to Contribute?
