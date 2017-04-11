@@ -1,3 +1,7 @@
+#
+#  Contributer : github.com/hell-sing
+#  Email : abhishek_verma@hotmail.com
+#
 def identify_class(obj)
     # write your case control structure here
     case obj

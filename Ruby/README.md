@@ -1,5 +1,11 @@
 # Solution for Ruby
 
+## Developers and Contributors for hell-sing/hacker-rank/Ruby
+
+|   |   Developer    |  Language |  Rank/Badge  |
+|---|----------------|-----------|--------------|
+| 1 | Abhishek Verma |    Ruby   |      1       |
+
 ## How to Contribute?
 ```
 - Fork the repository hell-sing/hacker-rank.

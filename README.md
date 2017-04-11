@@ -19,18 +19,18 @@
 
 ## Developers and Contributors for hell-sing/hacker-rank
 
-|   |   Developer    |     Language    |Language(Algorithm)|Language(Data Structure)| Score  | Badge |
-|---|----------------|-----------------|-------------------|------------------------|--------|-------|
-| 1 |Abhishek Verma  |  Ruby, Python   |    Python, C      |     Python, C          |   7    |       |
-| 2 |Jashan Bhullar  |  Java           |                   |                        |        |       |
-| 3 |Shikhar Gupta   |  C++, Java      |                   |                        |   12   |       |
-| 4 |Tanmay Agarwal  |  C++            |                   |                        |   6    |       |
-| 5 |Shubham Jaswal  |  C++, SQL       |    C, C++         |     C, C++             |   22   |       |
-| 6 |Shaurya Gairola |  C++, Java      |                   |                        |        |       |
-| 7 |Harshit Kashyap |  Java, Ruby     |                   |                        |        |       |
-| 8 |Shivank         |  C++            |                   |                        |        |       |
-| 9 |Ankita          |  Shell, Python  |   C, Python       |  C, Python             |        |       |
-|10 |Ashutosh Mishra |  Python         |                   |                        |        |       |
+|   |   Developer    |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
+|---|----------------|-----------------|-------------|----------------|------------|-------|-------|
+| 1 |Abhishek Verma  |  Ruby, Python   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
+| 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
+| 3 |Shikhar Gupta   |  C++, Java      |  Java       |  Java          |   SQL      |  12   |       |
+| 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  6    |       |
+| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  22   |       |
+| 7 |Harshit Kashyap |  Java, Ruby     |  Java       |  Java          |            |       |       |
+| 6 |Shaurya Gairola |  C++, Java      |  C, C++     |  C, C++        |            |       |       |
+| 8 |Shivank         |  C++            |  C, C++     |  C, C++        |            |       |       |
+| 9 |Ankita Sharma   |  Shell, Python  |  Python     |  Python        |  Database  |       |       |
+|10 |Ashutosh Mishra |  Python         |  Python     |  Python        |  Database  |       |       |
 
 ## Command for direct push access
 
