@@ -20,4 +20,4 @@
 | 17| Weather Observation Station 11     |  Pass            | shikhar-07  |            
 | 18| Weather Observation Station 12     |  Pass            | shikhar-07  |                   
 | 19| Weather Observation Station 5      |  Pass            | jaswal72    |  
-| 20|                                    |                  |             |  
+| 20| Higher Than 75 Marks               |  Pass            | jaswal72    |  
