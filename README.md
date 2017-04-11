@@ -17,6 +17,7 @@
 
 * For any update in the pre-build solution generate the issue.
 
+
 ## Developers and Contributors for hell-sing/hacker-rank
 
 |   |   Developer    |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
@@ -25,12 +26,13 @@
 | 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
 | 3 |Shikhar Gupta   |  C++, Java      |  Java       |  Java          |   SQL      |  12   |       |
 | 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  6    |       |
-| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  22   |       |
+| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  24   |       |
 | 7 |Harshit Kashyap |  Java, Ruby     |  Java       |  Java          |            |       |       |
 | 6 |Shaurya Gairola |  C++, Java      |  C, C++     |  C, C++        |            |       |       |
 | 8 |Shivank         |  C++            |  C, C++     |  C, C++        |            |       |       |
 | 9 |Ankita Sharma   |  Shell, Python  |  Python     |  Python        |  Database  |       |       |
 |10 |Ashutosh Mishra |  Python         |  Python     |  Python        |  Database  |       |       |
+
 
 ## Command for direct push access
 
