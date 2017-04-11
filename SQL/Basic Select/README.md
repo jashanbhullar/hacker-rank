@@ -12,12 +12,12 @@
 | 9 | Weather Observation Station 4      |  Pass            | jaswal72    |  
 | 10| Employee Names                     |  Pass            | jaswal72    |  
 | 11| Employee Salaries                  |  Pass            | jaswal72    |  
-| 12|                                    |                  |             |  
-| 13|                                    |                  |             |  
-| 14|                                    |                  |             |  
-| 15|                                    |                  |             |  
-| 16|                                    |                  |             |  
-| 17|                                    |                  |             |  
-| 18|                                    |                  |             |  
+| 12| Weather Observation Station 6      |  Pass            | shikhar-07  |               
+| 13| Weather Observation Station 7      |  Pass            | shikhar-07  |               
+| 14| Weather Observation Station 8      |  Pass            | shikhar-07  |                  
+| 15| Weather Observation Station 9      |  Pass            | shikhar-07  |             
+| 16| Weather Observation Station 10     |  Pass            | shikhar-07  |                   
+| 17| Weather Observation Station 11     |  Pass            | shikhar-07  |            
+| 18| Weather Observation Station 12     |  Pass            | shikhar-07  |                   
 | 19|                                    |                  |             |  
 | 20|                                    |                  |             |  
