@@ -24,7 +24,7 @@
 
 ## Developers and Contributors for hell-sing/hacker-rank
 
-|   |   Developer    |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
+|   | Contributors   |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
 |---|----------------|-----------------|-------------|----------------|------------|-------|-------|
 | 1 |Abhishek Verma  |  Ruby, Python   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
 | 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
