@@ -7,7 +7,4 @@
 | 4 |Ruby - Enumerable - collect                       | Pass             | hell-sing   |  
 | 5 |Ruby - Enumerable - each_with_index               | Pass             | hell-sing   |  
 | 6 |Ruby - Enumerable - Introduction                  | Pass             | hell-sing   |  
-| 7 |                                                  |                  |             |  
-| 8 |                                                  |                  |             |  
-| 9 |                                                  |                  |             |  
-| 10|                                                  |                  |             |  
+      
