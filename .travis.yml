@@ -10,4 +10,4 @@ script:
 - py.test
 
 notifications:
-  email: false
+  slack: upes-ai:GDuvgfzZHMXLVJDwHevjFXQj
