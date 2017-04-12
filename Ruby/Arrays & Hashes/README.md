@@ -10,4 +10,4 @@
 | 7 |Ruby Hash - Initialization               | Pass             | hell-sing   |  
 | 8 |Ruby Hash - Each                         | Pass             | hell-sing   |  
 | 9 |Ruby Hash - Addition, Deletion, Selection| Pass             | hell-sing   |  
-| 10|                                         |                  |             |  
+
