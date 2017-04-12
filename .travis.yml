@@ -10,4 +10,4 @@ script:
 - py.test
 
 notifications:
-  slack: algorithmsco:qdax07a9DTTLNhdMr9MnQ9rl
+  email: false
