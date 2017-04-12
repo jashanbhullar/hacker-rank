@@ -1,4 +1,7 @@
-#include <map>
+/* Contributer : github.com/Shaurya9619
+	   Email : shaurya96agirola@gmail.com
+	*/
+ #include <map>
 #include <set>
 #include <list>
 #include <cmath>
