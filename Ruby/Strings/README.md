@@ -7,7 +7,4 @@
 | 4 |Ruby - Strings - Iteration   | Pass             | hell-sing   |  
 | 5 |Ruby - Strings - Methods I   | Pass             | hell-sing   |  
 | 6 |Ruby - Strings - Methods II  | Pass             | hell-sing   |  
-| 7 |                             |                  |             |  
-| 8 |                             |                  |             |  
-| 9 |                             |                  |             |  
-| 10|                             |                  |             |  
+
