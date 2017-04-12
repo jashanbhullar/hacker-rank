@@ -6,8 +6,4 @@
 | 3 |Ruby Control Structures - Infinite Loop        | Pass             | hell-sing   |  
 | 4 |Ruby Control Structures - Unless               | Pass             | hell-sing   |  
 | 5 |Ruby Control Structures - Each                 | Pass             | hell-sing   |  
-| 6 |                                               |                  |             |  
-| 7 |                                               |                  |             |  
-| 8 |                                               |                  |             |  
-| 9 |                                               |                  |             |  
-| 10|                                               |                  |             |  
+ 
