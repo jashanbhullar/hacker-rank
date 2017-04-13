@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) ![Ruby](https://img.shields.io/badge/Uses-Ruby-yellow.svg) ![Java](https://img.shields.io/badge/Uses-Java-green.svg)
 ![Hacker Rank](https://img.shields.io/badge/hacker-rank-lightgrey.svg)  
+![Status](https://img.shields.io/badge/Status-Incomplete-yellowgreen.svg)
 
  This repository contains solutions in various languages and sub-domains from HackerRank contributed by various enthusiastic from University of Petroleum and Energy Studies. If you find any issues with the solutions in the repository because problem statements have changed over time, [open an issue](https://github.com/hell-sing/hacker-rank/issues) and I'll check it out.  
 
