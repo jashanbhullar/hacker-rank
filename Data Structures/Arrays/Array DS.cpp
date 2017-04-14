@@ -1,5 +1,5 @@
 /* Contributer : github.com/Shaurya9619
-	   Email : shaurya96agirola@gmail.com
+	   Email : shaurya96gairola@gmail.com
 	*/
 #include <map>
 #include <set>
