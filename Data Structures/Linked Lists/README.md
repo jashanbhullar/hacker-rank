@@ -1,7 +1,7 @@
 
 |No.| Problem Name                                | Test (Pass/Fail) |Contributor |  
 |---|---------------------------------------------|------------------|------------|  
-| 1 | print the elements of a linked list.cpp     |pass              |Shvank      |  
+| 1 | print the elements of a linked list.cpp     |pass              |blindbluffer|  
 | 2 |                                             |                  |            |  
 | 3 |                                             |                  |            |
 | 4 |                                             |                  |            |
