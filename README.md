@@ -30,7 +30,7 @@
 | 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
 | 3 |Shikhar Gupta   |  C++, Java      |  Java       |  Java          |   SQL      |  12   |       |
 | 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  20   |       |
-| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  54   |       |
+| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  55   |       |
 | 7 |Harshit Kashyap |  Java, Ruby     |  Java       |  Java          |            |       |       |
 | 6 |Shaurya Gairola |  C++, Java      |  C, C++     |  C, C++        |            |       |       |
 | 8 |Shivank         |  C++            |  C, C++     |  C, C++        |            |       |       |
