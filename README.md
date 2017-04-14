@@ -29,7 +29,7 @@
 | 1 |Abhishek Verma  |  Ruby, Python   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
 | 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
 | 3 |Shikhar Gupta   |  C++, Java      |  Java       |  Java          |   SQL      |  12   |       |
-| 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  6    |       |
+| 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  20   |       |
 | 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  54   |       |
 | 7 |Harshit Kashyap |  Java, Ruby     |  Java       |  Java          |            |       |       |
 | 6 |Shaurya Gairola |  C++, Java      |  C, C++     |  C, C++        |            |       |       |
