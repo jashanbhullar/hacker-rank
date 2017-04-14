@@ -1,7 +1,7 @@
 
 |No.| Problem Name           |     Test (Pass/Fail) | Contributor  |  
 |---|--------------------    |------------------    |------------- |  
-| 1 |c++ class templates.cpp |   pass               | Blind Bluffer|  
+| 1 |c++ class templates.cpp |   pass               |Shivank       |
 | 2 |                        |                      |              |  
 | 3 |                        |                      |              |  
 | 4 |                        |                      |              |  
