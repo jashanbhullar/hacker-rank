@@ -13,6 +13,7 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */
      int n, d;
     cin>>n>>d;
+	d=d%n;
     int a[n];
     for(int i=0; i<n; i++)
         cin>>a[i];
