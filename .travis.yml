@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.4"
+# command to install dependencies
+install:
+  - pip install six
+  - pip install jupyter
+# command to run tests
+script:
+- py.test
+
+notifications:
+  slack: upesai:7rYVCUvmt6xrtIDeXaVF00W8
