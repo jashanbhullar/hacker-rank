@@ -10,4 +10,4 @@ script:
 - py.test
 
 notifications:
-  slack: upes-ai:GDuvgfzZHMXLVJDwHevjFXQj
+  slack: upesai:7rYVCUvmt6xrtIDeXaVF00W8
