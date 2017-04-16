@@ -21,22 +21,20 @@
 
 * For any update in the pre-build solution generate the issue.
 
-
 ## Developers and Contributors for hell-sing/hacker-rank
 
-|   | Contributors   |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
-|---|----------------|-----------------|-------------|----------------|------------|-------|-------|
-| 1 |Abhishek Verma  |  Ruby, Python   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
-| 2 |Jashan Bhullar  |  Java           |  Java       |  Java          |            |  42   |       |
-| 3 |Shikhar Gupta   |  C++, Java      |  Java       |  Java          |   SQL      |  22   |       |
-| 4 |Tanmay Agarwal  |  C++            |  C, C++     |  C, C++        |            |  20   |       |
-| 5 |Shubham Jaswal  |  C++            |  C, C++     |  C, C++        |   SQL      |  55   |       |
-| 7 |Harshit Kashyap |  Java, Ruby     |  Java       |  Java          |            |       |       |
-| 6 |Shaurya Gairola |  C++, Java      |  C, C++     |  C, C++        |            |       |       |
-| 8 |Shivank         |  C++            |  C, C++     |  C, C++        |            |       |       |
-| 9 |Ankita Sharma   |  Shell, Python  |  Python     |  Python        |  Database  |       |       |
-|10 |Ashutosh Mishra |  Python         |  Python     |  Python        |  Database  |       |       |
-
+|   | Contributors        |     Language    |  Algorithm  | Data Structure | Sub-Domain | Score | Badge |
+|---|---------------------|-----------------|-------------|----------------|------------|-------|-------|
+| 1 |[Abhishek Verma][1]  |  Python, Ruby   |  Python, C  |  Python, C     |  FP, AI    |  54   |       |
+| 2 |Jashan Bhullar[2]    |  Java           |  Java       |  Java          |  Regex     |  42   |       |
+| 3 |Shikhar Gupta[3]     |  C++, Java      |  Java       |  Java          |   SQL      |  22   |       |
+| 4 |Tanmay Agarwal[4]    |  C++            |  C, C++     |  C, C++        |   SQL      |  20   |       |
+| 5 |Shubham Jaswal[5]    |  C++            |  C, C++     |  C, C++        | Mathematic |  55   |       |
+| 6 |Aditya Harsh[6]      |  Python         |  Python     |  Python        |  FP, AI    |       |       |
+| 7 |Shaurya Gairola[7]   |  C++, Java      |  C, C++     |  C, C++        | Mathematic |       |       |
+| 8 |Shivank Srivastava[8]|  C++            |  C, C++     |  C, C++        |  Database  |       |       |
+| 9 |Ankita Sharma[9]     |  Shell, Python  |  Python     |  Python        |  Database  |       |       |
+|10 |Preeti Yadav[10]     |  Python         |  Python     |  Python        |  Database  |       |       |
 
 ## Command for direct push access
 
@@ -51,3 +49,14 @@ Clone repository hell-sing/hacker-rank
 ```
 $ git clone git@github.com:hell-sing/hacker-rank.git
 ```
+
+[1]:https://github.com/hell-sing
+[2]:https://github.com/jashanbhullar
+[3]:https://github.com/shikhar-07
+[4]:https://github.com/tanmayag8958
+[5]:https://github.com/jaswal72
+[6]:https://github.com/adityasiwan
+[7]:https://github.com/shaurya9619
+[8]:https://github.com/blindbluffer
+[9]:https://github.com/ankita086
+[10]:https://github.com/Preetiii
