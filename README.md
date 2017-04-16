@@ -32,7 +32,7 @@
 | 5 |[Shubham Jaswal][5]    |  C++            |  C, C++     |  C, C++        | Mathematic |  55   |       |
 | 6 |[Aditya Harsh][6]      |  Python         |  Python     |  Python        |  FP, AI    |       |       |
 | 7 |[Shaurya Gairola][7]   |  C++, Java      |  C, C++     |  C, C++        | Mathematic |       |       |
-| 8 |[Shivank Srivastava][8]|  C++            |  C, C++     |  C, C++        |  Database  |       |       |
+| 8 |[Shivank Srivastava][8]|  C++            |  C, C++     |  C, C++        |  Database  |  9    |       |
 | 9 |[Ankita Sharma][9]     |  Shell, Python  |  Python     |  Python        |  Database  |       |       |
 |10 |[Preeti Yadav][10]     |  Python         |  Python     |  Python        |  Database  |       |       |
 
