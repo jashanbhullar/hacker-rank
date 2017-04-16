@@ -6,8 +6,8 @@
 | 3 |Insert a Node at the head of a linked list            |            :     |blindbluffer: pass |          :      |            :      |
 | 4 |Insert a node at a specific position in a linked list |            :     |blindbluffer: pass |          :      |            :      |
 | 5 |Delete a Node                                         |            :     |blindbluffer: pass |          :      |            :      |
-| 7 |                                                      |            :     |            :      |          :      |            :      |
-| 6 |                                                      |            :     |            :      |          :      |            :      |
-| 8 |                                                      |            :     |            :      |          :      |            :      |
+| 6 |Print in Reverse                                      |            :     |blindbluffer: pass |          :      |            :      |
+| 7 |Reverse a linked list                                 |            :     |blindbluffer: pass |          :      |            :      |
+| 8 |Compare two linked lists                              |            :     |blindbluffer: pass |          :      |            :      |
 | 9 |                                                      |            :     |            :      |          :      |            :      |
 | 10|                                                      |            :     |            :      |          :      |            :      |
