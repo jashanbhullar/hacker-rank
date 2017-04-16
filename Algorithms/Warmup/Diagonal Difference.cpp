@@ -11,16 +11,19 @@ using namespace std;
 
 
 int main(){
-    int n,s,t;
+    int n,s=0,t=0;
     cin >> n;
     int a[n][n];
     for(int i = 0;i < n;i++){
        for(int j = 0;j < n;j++){
           cin >> a[i][j];
+          if(i==j)
+          s+=a[i][j];
+          if((i+j)==(n-1))
+          t+=a[i][j];
        }
     }
-    s=a[0][0]+a[1][1]+a[2][2];
-    t=a[2][0]+a[1][1]+a[0][2];
+
     cout<<abs(s-t);
     return 0;
 }
