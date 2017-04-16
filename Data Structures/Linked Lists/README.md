@@ -1,5 +1,5 @@
 
-|No.| Problem Name                                         |  Contributor(C)  | Contributor (Cpp) | Contributor(Py) | Contributor(Java) |
+|No.|                  Problem Name                        |  Contributor(C)  | Contributor (Cpp) | Contributor(Py) | Contributor(Java) |
 |---|------------------------------------------------------|------------------|-------------------|-----------------|-------------------|  
 | 1 |print the elements of a linked list                   |            :     |blindbluffer: pass |          :      |            :      |
 | 2 |Insert a Node at the Tail of a Linked List            |            :     |blindbluffer: pass |          :      |            :      |
