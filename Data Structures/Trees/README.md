@@ -2,7 +2,7 @@
 |No.| Problem Name          | Contributor(C) | Contributor (Cpp) | Contributor(Py) | Contributor(Java) |
 |---|-----------------------|----------------|-------------------|-----------------|-------------------|  
 | 1 |Tree:Preorder Traversal|        :       |Shaurya9619 :pass  |        :        |        :          |
-| 2 |                       |        :       |          :        |        :        |        :          |
+| 2 |Tree: Inorder Traversal|        :       |Shaurya9619 :pass  |        :        |        :          |
 | 3 |                       |        :       |          :        |        :        |        :          |
 | 4 |                       |        :       |          :        |        :        |        :          |
 | 5 |                       |        :       |          :        |        :        |        :          |
