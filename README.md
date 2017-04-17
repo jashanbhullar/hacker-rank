@@ -29,7 +29,7 @@
 | 2 |[Jashan Bhullar][2]    |  Java           |  Java       |  Java          |  Regex     |  42   |       |
 | 3 |[Shikhar Gupta][3]     |  C++, Java      |  Java       |  Java          |   SQL      |  22   |       |
 | 4 |[Tanmay Agarwal][4]    |  C++            |  C, C++     |  C, C++        |   SQL      |  20   |       |
-| 5 |[Shubham Jaswal][5]    |  C++            |  C, C++     |  C, C++        | Mathematic |  55   |       |
+| 5 |[Shubham Jaswal][5]    |  C++            |  C, C++     |  C, C++        | Mathematic |  56   |       |
 | 6 |[Aditya Harsh][6]      |  Python         |  Python     |  Python        |  FP, AI    |       |       |
 | 7 |[Shaurya Gairola][7]   |  C++, Java      |  C, C++     |  C, C++        | Mathematic |       |       |
 | 8 |[Shivank Srivastava][8]|  C++            |  C, C++     |  C, C++        |  Database  |  9    |       |
