@@ -1,16 +1,13 @@
 /* Contributer : github.com/Shaurya9619
 	   Email : shaurya96gairola@gmail.com
 	*/
-struct node
-{
-    int data;
-    node* left;
-    node* right;
-};
- void postOrder(node* root) {
- if(root != NULL)
-    {
+void preOrder(node* root){
 
-        postOrder(root->left);
-        postOrder(root->right);
-        cout << root->data<<" ";
+
+    if (root != NULL)
+    {
+        cout <<root->data<<" ";
+        preOrder(root->left);
+        preOrder(root->right);
+    }
+}
