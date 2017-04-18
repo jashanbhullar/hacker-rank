@@ -1,7 +1,7 @@
 
 |No.| Problem Name          | Contributor(C) | Contributor (Cpp) | Contributor(Py) | Contributor(Java) |
 |---|-----------------------|----------------|-------------------|-----------------|-------------------|  
-| 1 |                       |        :       |          :        |        :        |        :          |
+| 1 | CamelCase             |        :       | jaswal72 : pass   |        :        |        :          |
 | 2 |                       |        :       |          :        |        :        |        :          |
 | 3 |                       |        :       |          :        |        :        |        :          |
 | 4 |                       |        :       |          :        |        :        |        :          |
