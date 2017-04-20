@@ -3,7 +3,7 @@
 |---|--------------|------------------|-------------|  
 | 1 |Find the Point|  pass            | jaswal72    |  
 | 2 |Maximum Draws |  pass            | jaswal72    |  
-| 3 |              |                  |             |  
+| 3 |Handshake     |  pass            | jaswal72    |  
 | 4 |              |                  |             |  
 | 5 |              |                  |             |  
 | 6 |              |                  |             |  
