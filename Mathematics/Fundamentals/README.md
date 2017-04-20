@@ -1,7 +1,7 @@
 
 |No.| Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
+| 1 |Find the Point|  pass            | jaswal72    |  
 | 2 |              |                  |             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
