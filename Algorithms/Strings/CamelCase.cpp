@@ -1,3 +1,8 @@
+/*
+   Contributer : github.com/jaswal72
+   Email : shubhamjaswal772@gmail.com
+*/
+
 #include <map>
 #include <set>
 #include <list>
@@ -20,21 +25,17 @@
 #include <iostream>
 #include <algorithm>
 #include <unordered_map>
-#include <regex>
 
 using namespace std;
 
 
 int main(){
-    int count = 0;
     string s;
+    int count=1;
     cin >> s;
-    for(int i = 0 ; i < s.length() ; i++){
-        if(s[i] >= 65 && s[i] <= 90){
-            count++;
-        }
-    }
-    cout<<count+1;
+    for(int i=0;i<s.length();i++)
+        if(isupper(s[i]))
+        ++count;
+    cout<<count;
     return 0;
 }
-
