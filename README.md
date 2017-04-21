@@ -1,4 +1,5 @@
 # `Hacker Rank Solutions`
+![HackerRank](https://github.com/hell-sing/hacker-rank/blob/master/HackerRankLogo.jpg)
 
 [![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-3.x-blue.svg) ![Ruby](https://img.shields.io/badge/Uses-Ruby-yellow.svg) ![Java](https://img.shields.io/badge/Uses-Java-green.svg)
 ![Hacker Rank](https://img.shields.io/badge/hacker-rank-lightgrey.svg) ![Status](https://img.shields.io/badge/Status-Incomplete-yellowgreen.svg)
