@@ -5,7 +5,7 @@
 | 2 |Maximum Draws |  pass            | jaswal72    |  
 | 3 |Handshake     |  pass            | jaswal72    |  
 | 4 |Army Game     |  pass            | jaswal72    |  
-| 5 |              |                  |             |  
+| 5 |Leonardo's Prime Factors|pass    |Shaurya9619  |  
 | 6 |              |                  |             |  
 | 7 |              |                  |             |  
 | 8 |              |                  |             |  
