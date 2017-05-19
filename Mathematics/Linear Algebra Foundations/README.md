@@ -2,7 +2,7 @@
 |No.| Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
 | 1 |Linear Algebra Foundations #1 - Matrix Addition|pass                  |Shaurya9619             |  
-| 2 |              |                  |             |  
+| 2 |Linear Algebra Foundations#2-Matrix Subtraction|pass                  |Shaurya9619             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
 | 5 |              |                  |             |  
