@@ -11,8 +11,8 @@
 | 8 |Linear Algebra Foundations #8 - Systems of Equations          |pass               |Shaurya9619             |  
 | 9 |Linear Algebra Foundations #9 - Eigenvalues                   |pass               |Shaurya9619             |  
 | 10|Linear Algebra Foundations #10 - Eigenvectors                 |pass               |Shaurya9619             |
-| 11|Determinant of the matrix #1                                  |pass               |Shaurya9619            | 
-| 10|              |                  |             | 
+| 11|Determinant of the matrix #1                                  |pass               |Shaurya9619             | 
+| 10|Determinant of the matrix #2                                  |pass               |Shaurya9619             | 
 | 10|              |                  |             | 
 | 10|              |                  |             | 
 | 10|              |                  |             | 
