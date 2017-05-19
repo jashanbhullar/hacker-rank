@@ -1,7 +1,7 @@
 
 |No.| Problem Name | Test (Pass/Fail) | Contributor |  
 |---|--------------|------------------|-------------|  
-| 1 |              |                  |             |  
+| 1 |Points On a Line|pass            |Shaurya9619  |  
 | 2 |              |                  |             |  
 | 3 |              |                  |             |  
 | 4 |              |                  |             |  
