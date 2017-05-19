@@ -1,0 +1,10 @@
+/* Contributer : github.com/Shaurya9619
+	   Email : shaurya96gairola@gmail.com
+*/
+Of the following data structures, which has a Last in First Out ordering? In other words, the one that
+came in last will be the first to be popped.
+A) Queue 
+B) Stack
+C) Vector 
+D) Array List
+Answer- B) Stack
