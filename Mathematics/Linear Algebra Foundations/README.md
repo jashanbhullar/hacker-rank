@@ -9,5 +9,5 @@
 | 6 |Linear Algebra Foundations #6 - An Equation involving Matrices|pass               |Shaurya9619             |  
 | 7 |Linear Algebra Foundations #7 - The 1000th Power of a Matrix  |pass               |Shaurya9619             |  
 | 8 |Linear Algebra Foundations #8 - Systems of Equations          |pass               |Shaurya9619             |  
-| 9 |              |                  |             |  
+| 9 |Linear Algebra Foundations #9 - Eigenvalues                   |pass               |Shaurya9619             |  
 | 10|              |                  |             |  
