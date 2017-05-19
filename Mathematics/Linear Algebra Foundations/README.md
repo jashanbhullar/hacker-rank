@@ -8,6 +8,6 @@
 | 5 |Linear Algebra Foundations #5 - The 100th Power of a Matrix   |pass               |Shaurya9619             |  
 | 6 |Linear Algebra Foundations #6 - An Equation involving Matrices|pass               |Shaurya9619             |  
 | 7 |Linear Algebra Foundations #7 - The 1000th Power of a Matrix  |pass               |Shaurya9619             |  
-| 8 |              |                  |             |  
+| 8 |Linear Algebra Foundations #8 - Systems of Equations          |pass               |Shaurya9619             |  
 | 9 |              |                  |             |  
 | 10|              |                  |             |  
