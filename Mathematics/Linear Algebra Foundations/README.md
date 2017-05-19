@@ -14,6 +14,7 @@
 | 11|Determinant of the matrix #1                                  |pass               |Shaurya9619             | 
 | 12|Determinant of the matrix #2                                  |pass               |Shaurya9619             | 
 | 13|Determinant of the matrix #3                                  |pass               |Shaurya9619             | 
-| 10|              |                  |             | 
+| 14|Eigenvalue of matrix #2                                       |pass               |Shaurya9619             | 
+| 14|              |                  |             | 
 | 10|              |                  |             | 
 | 10|              |                  |             | 
