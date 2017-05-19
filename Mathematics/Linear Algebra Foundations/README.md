@@ -10,4 +10,10 @@
 | 7 |Linear Algebra Foundations #7 - The 1000th Power of a Matrix  |pass               |Shaurya9619             |  
 | 8 |Linear Algebra Foundations #8 - Systems of Equations          |pass               |Shaurya9619             |  
 | 9 |Linear Algebra Foundations #9 - Eigenvalues                   |pass               |Shaurya9619             |  
-| 10|              |                  |             |  
+| 10|Linear Algebra Foundations #10 - Eigenvectors                 |pass               |Shaurya9619             |
+| 10|              |                  |             | 
+| 10|              |                  |             | 
+| 10|              |                  |             | 
+| 10|              |                  |             | 
+| 10|              |                  |             | 
+| 10|              |                  |             | 
