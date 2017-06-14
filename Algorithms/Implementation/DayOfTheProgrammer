@@ -1,0 +1,49 @@
+/*
+* Contributer : github.com/tanmayag8958
+* Email : tanmayag8958@gmail.com
+*/
+
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int solve(int year){
+    // Complete this function
+    int x;
+    int y;
+    if(year>=1919&&year<=2700)
+        {
+    if(year%400==0)
+        y=29;
+    else if(year%100!=0)
+        {
+        if(year%4==0)
+            y=29;
+        else 
+            y=28;
+    }
+    else
+        y=28;
+    }
+    else
+        {
+        if(year%4==0)
+        y=29;
+        else 
+        y=28;
+    }
+    x=31+y+31+30+31+30+31+31;
+    x=256-x;
+    if(year==1918)
+        x=x+13;
+    return x;
+}
+
+int main() {
+    int year,dd;
+    cin >> year;
+    dd = solve(year);
+    cout << dd <<".09."<<year <<endl;
+    return 0;
+}
